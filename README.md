@@ -1,2 +1,3 @@
-# sklep-internetowy-fe
-Sekcja frontend do sklepu internetowego tworzona w środowisku Angular.
+# Projekt "Sklep internetowy"
+
+Stworzone z użyciem [Angular CLI](https://github.com/angular/angular-cli) na wersji 15.2.3.
