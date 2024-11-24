@@ -1,4 +1,4 @@
-# Projekt "Sklep internetowy"
+# Projekt "Sklep internetowy" - część frontend
 
 Stworzone z użyciem [Angular CLI](https://github.com/angular/angular-cli) na wersji 15.2.3.  
 Projekt tworzony był podczas kursu na witrynie Udemy pt. "(2024) Angular i Java Spring Od zera do Fullstack developera". Na bieżąco planuję rozwijać ten projekt i dodawać nowe możliwości lub zmieniać design.
