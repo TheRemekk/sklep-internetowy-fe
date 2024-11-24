@@ -25,18 +25,18 @@ Aby dowiedzieć się o tym jakie role są dostępne należy przejść do [Role i
 
 Aby uruchomić ten projekt lokalnie, wykonaj poniższe kroki:
 
-1. Klonowanie repozytorium  
+### 1. Klonowanie repozytorium  
 ```bash
   cd <scieżka_w_której_chcesz_umieścić_projekt>
   git clone https://github.com/TheRemekk/sklep-internetowy-fe
   ``` 
 
-2. Instalacja zależności
+### 2. Instalacja zależności
 ```bash
   npm install  # lub yarn install
   ``` 
 
-3. Uruchomienie projektu
+### 3. Uruchomienie projektu
 ```bash
   ng serve  
   ``` 
